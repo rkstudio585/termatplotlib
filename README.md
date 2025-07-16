@@ -31,7 +31,7 @@ pip install termatplotlib
 Alternatively, if you have cloned the repository, you can install it from the source:
 
 ```bash
-pip install .
+pip install termatplotlib
 ```
 
 ## Usage
